@@ -1,7 +1,5 @@
 ### Hello World, I'm Siddhant! 👋
-
 </br>
-
 <a href="https://www.linkedin.com/in/siddhant-singh-437315197/">
   <img align="left" alt="Adarshreddyash LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.12.0/icons/linkedin.svg" />
 </a>
@@ -14,6 +12,7 @@
   <img align="left" alt="Siddhant's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/gmail.svg" />
 </a>
 
+</br>
 </br>
 
 - 🔭 I’m currently working on [Agrohome (Ecommerce Website)](https://github.com/Sandeep02911/e-commerce)
