@@ -17,7 +17,6 @@
 
 - 🔭 I’m currently working on [Agrohome (Ecommerce Website)](https://github.com/i-see-pixels/AgroHome)
 - 🌱 I’m currently learning Python, ML, CV
-- 👯 I’m looking to collaborate on [Agrohome](https://github.com/i-see-pixels/AgroHome)
 - 💬 Ask me about anything 😆 
 - 📫 How to reach me: [Email (siddhant06137@gmail.com)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 - ⚡ Fun fact: I like playing games and drawing portraits
