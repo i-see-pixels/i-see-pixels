@@ -102,8 +102,8 @@ I build AI-powered products and production-grade web platforms. By day I'm a **S
 ### ✍️ Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
-- [The best Mermaid viewer is the one that doesn't fight you (so I built one)](https://siddsingh.dev/blog/best-mermaid-viewer)
-- [Hi, I'm Sidd (and yes, I finally started a blog)](https://siddsingh.dev/blog/hello-im-sidd)
+- [The best Mermaid viewer is the one that doesn&#39;t fight you &lpar;so I built one&rpar;](https://siddsingh.dev/blog/best-mermaid-viewer)
+- [Hi, I&#39;m Sidd &lpar;and yes, I finally started a blog&rpar;](https://siddsingh.dev/blog/hello-im-sidd)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more on siddsingh.dev/blog](https://siddsingh.dev/blog) · [RSS](https://siddsingh.dev/blog/rss.xml)
