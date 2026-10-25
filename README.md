@@ -74,8 +74,8 @@ I build AI-powered products and production-grade web platforms. By day I'm a **S
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=i-see-pixels&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&bg_color=00000000" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=i-see-pixels&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default&bg_color=00000000" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=i-see-pixels&show_icons=true&hide_border=true&count_private=true&theme=github_dark&bg_color=00000000" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=i-see-pixels&show_icons=true&hide_border=true&count_private=true&theme=default&bg_color=00000000" alt="GitHub stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=i-see-pixels&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=00000000" />
