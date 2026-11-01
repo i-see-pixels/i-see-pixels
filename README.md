@@ -102,8 +102,11 @@ I build AI-powered products and production-grade web platforms. By day I'm a **S
 ### ✍️ Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [A regex tester that tells you it won&#39;t work in Go before production does](https://siddsingh.dev/blog/regex-tester-every-language)
+- [A cron expression tool that knows GitHub Actions isn&#39;t AWS &lpar;unlike me at 2am&rpar;](https://siddsingh.dev/blog/cron-expression-generator)
+- [A JWT decoder that also tells you what&#39;s wrong with your token &lpar;politely&rpar;](https://siddsingh.dev/blog/jwt-decoder-security-check)
+- [A JSON formatter that checks for secrets before you paste &lpar;because someone has to&rpar;](https://siddsingh.dev/blog/safe-json-formatter)
 - [The best Mermaid viewer is the one that doesn&#39;t fight you &lpar;so I built one&rpar;](https://siddsingh.dev/blog/best-mermaid-viewer)
-- [Hi, I&#39;m Sidd &lpar;and yes, I finally started a blog&rpar;](https://siddsingh.dev/blog/hello-im-sidd)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more on siddsingh.dev/blog](https://siddsingh.dev/blog) · [RSS](https://siddsingh.dev/blog/rss.xml)
