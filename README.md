@@ -102,11 +102,11 @@ I build AI-powered products and production-grade web platforms. By day I'm a **S
 ### ✍️ Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Convert OpenAI functions to Anthropic tools &lpar;and back&rpar; without hand-editing JSON](https://siddsingh.dev/blog/openai-function-to-anthropic-tool)
+- [Prompt templates with {{variables}}, minus the account, the API key and the bill](https://siddsingh.dev/blog/prompt-template-playground)
+- [Make your screenshots look expensive &lpar;for free, with no watermark&rpar;](https://siddsingh.dev/blog/free-screenshot-mockup-generator)
+- [A diff checker for the text you probably shouldn&#39;t paste into a diff checker](https://siddsingh.dev/blog/private-diff-checker)
 - [A regex tester that tells you it won&#39;t work in Go before production does](https://siddsingh.dev/blog/regex-tester-every-language)
-- [A cron expression tool that knows GitHub Actions isn&#39;t AWS &lpar;unlike me at 2am&rpar;](https://siddsingh.dev/blog/cron-expression-generator)
-- [A JWT decoder that also tells you what&#39;s wrong with your token &lpar;politely&rpar;](https://siddsingh.dev/blog/jwt-decoder-security-check)
-- [A JSON formatter that checks for secrets before you paste &lpar;because someone has to&rpar;](https://siddsingh.dev/blog/safe-json-formatter)
-- [The best Mermaid viewer is the one that doesn&#39;t fight you &lpar;so I built one&rpar;](https://siddsingh.dev/blog/best-mermaid-viewer)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more on siddsingh.dev/blog](https://siddsingh.dev/blog) · [RSS](https://siddsingh.dev/blog/rss.xml)
