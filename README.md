@@ -102,11 +102,11 @@ I build AI-powered products and production-grade web platforms. By day I'm a **S
 ### ✍️ Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [How much will this prompt cost? An LLM token calculator that compares Claude, GPT and Gemini](https://siddsingh.dev/blog/llm-token-cost-calculator)
 - [Convert OpenAI functions to Anthropic tools &lpar;and back&rpar; without hand-editing JSON](https://siddsingh.dev/blog/openai-function-to-anthropic-tool)
 - [Prompt templates with {{variables}}, minus the account, the API key and the bill](https://siddsingh.dev/blog/prompt-template-playground)
 - [Make your screenshots look expensive &lpar;for free, with no watermark&rpar;](https://siddsingh.dev/blog/free-screenshot-mockup-generator)
 - [A diff checker for the text you probably shouldn&#39;t paste into a diff checker](https://siddsingh.dev/blog/private-diff-checker)
-- [A regex tester that tells you it won&#39;t work in Go before production does](https://siddsingh.dev/blog/regex-tester-every-language)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [Read more on siddsingh.dev/blog](https://siddsingh.dev/blog) · [RSS](https://siddsingh.dev/blog/rss.xml)
