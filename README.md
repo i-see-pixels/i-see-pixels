@@ -1,11 +1,11 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Siddhant%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Senior%20Software%20Engineer%20%7C%20AI%20%26%20Cloud&descSize=18&descAlignY=58" alt="Siddhant Singh" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Siddhant%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Senior%20Software%20Engineer%20%C2%B7%20Gurugram%2C%20India&descAlignY=58&descSize=16" alt="Siddhant Singh" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://siddsingh.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=620&lines=I+build+AI-powered+products;I+ship+production-grade+web+platforms" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=620&lines=I+build+AI-powered+products+and+web+platforms.;Multi-agent+systems+that+do+real+work.;Chrome+extensions+%E2%80%A2+Next.js+%E2%80%A2+FastAPI;Building+solutions+for+real+problems." alt="Typing intro" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 
 ### 👋 Hey, I'm Sidd
 
-I build AI-powered products and production-grade web platforms. By day I'm a **Senior Software Engineer at [Optum](https://www.optum.com/) (UnitedHealth Group)**, teaching a squad of AI agents to solve real-world problems.
+I build AI-powered products and production-grade web platforms. By day I'm a **Senior Software Engineer at [Optum](https://www.optum.com/) (UnitedHealth Group)**, teaching a squad of AI agents to find the bug before anyone files the ticket. By night I ship browser extensions and free dev tools, and occasionally write about it with more sarcasm than strictly necessary.
 
 - 🤖 **Now:** a FastAPI + Google ADK multi-agent root-cause-analysis workflow that writes incident reports before tickets are opened (projected **$500K–700K / yr** saved)
 - 🧰 **3+ years** across full-stack, cloud-native systems on GCP and AI agents
@@ -39,7 +39,7 @@ I build AI-powered products and production-grade web platforms. By day I'm a **S
 |:-:|---|---|
 | ✨ | **[plenz](https://plenz.siddsingh.dev)** · `Live` · 200+ installs | Open-source extension that rewrites weak AI prompts before you send them |
 | 🛠️ | **[admin-boil](https://admin-boil.vercel.app)** · `Live` | Admin dashboard you install with one CLI command, for Next.js and more |
-| ���� | **[SnapNode](https://github.com/i-see-pixels/snapnode)** · `Beta` | Chrome extension for crisp, element-level screenshots of any web page |
+| 📸 | **[SnapNode](https://github.com/i-see-pixels/snapnode)** · `Beta` | Chrome extension for crisp, element-level screenshots of any web page |
 | 🏥 | **[Doctors Divine](https://www.doctorsdivine.com/)** · client work | Hospital platform with doctor discovery, online booking and patient dashboards (1K visitors / mo) |
 | 🌐 | **[siddsingh.dev](https://github.com/i-see-pixels/siddsingh.dev)** · source | This whole circus: portfolio, blog, products and free tools (Next.js monorepo) |
 
@@ -74,12 +74,12 @@ I build AI-powered products and production-grade web platforms. By day I'm a **S
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=i-see-pixels&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000" />
-    <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=i-see-pixels&show_icons=true&hide_border=true&theme=default&bg_color=00000000" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=i-see-pixels&show_icons=true&hide_border=true&count_private=true&theme=github_dark&bg_color=00000000" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=i-see-pixels&show_icons=true&hide_border=true&count_private=true&theme=default&bg_color=00000000" alt="GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=i-see-pixels&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=00000000" />
-    <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=i-see-pixels&layout=compact&langs_count=8&hide_border=true&theme=default&bg_color=00000000" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=i-see-pixels&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=00000000" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-see-pixels&layout=compact&langs_count=8&hide_border=true&theme=default&bg_color=00000000" alt="Top languages" />
   </picture>
 </p>
 
